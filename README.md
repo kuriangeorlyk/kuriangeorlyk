@@ -1,4 +1,4 @@
-# Hi there! <img src="/assets/Hi.gif" width="35" />I am Kurian Georly Kunnathushery
+# Hi there! <img src="/assets/Hi.gif" width="35" />I'm Kurian Georly Kunnathushery
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=Red&vCenter=true&lines=Sr.+Full+Stack+Developer+👨‍🚀;Cybersecurity+and+Blockchain+🐧;Passionate+Coder+💻;)](https://git.io/typing-svg)
 
