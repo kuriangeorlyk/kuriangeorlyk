@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=Red&vCenter=true&lines=Sr.+Full+Stack+Developer+👨‍🚀;Cybersecurity+and+Blockchain+🐧;Passionate+Coder+💻;)](https://git.io/typing-svg)
 
 <p align="center">
-<a href="https://www.https://www.linkedin.com/in/kurian-g/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="shravankumarpalnati" width="3.5%" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/kurian-g/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="shravankumarpalnati" width="3.5%" /></a>&nbsp;
 <a href="mailto:kuriangeorlykunnathushery@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Kurian_Georly" width="3.5%" /></a>&nbsp;
 <a href="https://cheery-vacherin-25f5a4.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/internet.png" alt="Kurian_Georly" width="3.5%" /></a>&nbsp;
 </p>
