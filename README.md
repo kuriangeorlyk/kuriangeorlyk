@@ -1,6 +1,6 @@
 # Hi there! <img src="/assets/Hi.gif" width="35" />I'm Kurian Georly Kunnathushery
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=Red&vCenter=true&lines=Jr.+Full+Stack+Developer+👨‍🚀;SAP Specialist+🐧;Passionate+Coder+💻;)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=Red&vCenter=true&lines=Jr.+Full+Stack+Developer+👨‍🚀;SAP+Specialist+🐧;Passionate+Coder+💻;)](https://git.io/typing-svg)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kurian-g/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="shravankumarpalnati" width="3.5%" /></a>&nbsp;
